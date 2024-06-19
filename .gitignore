@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+Nova/bin/
+Nova/obj/
+Nova/build/
+Nova/dist/
+*.sln
+Nova.Test/bin/
+Nova.Test/obj/
+Nova.Test/obj/
+Nova.Test/build/
+Nova.Test/dist/
